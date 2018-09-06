@@ -1,3 +1,4 @@
 # hello-world
-Training purposes
-Understanding how GitHub works
+Training purposes.
+Understanding how GitHub works. 
+First commit added.
